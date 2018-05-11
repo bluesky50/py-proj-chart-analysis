@@ -5,8 +5,3 @@ This project implements stock chart visualization and analysis in python. The pr
 ## Example
 
 ![Chart Analysis](https://images2.imgbox.com/e0/ac/ynMVpnkj_o.png "MSFT Chart Analysis")
-
-https://images2.imgbox.com/42/2f/Bd3OP8Be_o.png
-https://images2.imgbox.com/2b/03/ZCCn0lm0_o.png
-https://images2.imgbox.com/7a/2e/ggUMixTP_o.png
-https://images2.imgbox.com/e0/ac/ynMVpnkj_o.png
